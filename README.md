@@ -1,7 +1,5 @@
 # sample-kraken
 
-sample kraken
-=======
 kraken-monk
 ===========
 
